@@ -1,0 +1,16 @@
+{
+  "services": [
+    {
+      "title": "Modificación de Ropa",
+      "description": "Personaliza tus prendas para darles un nuevo estilo."
+    },
+    {
+      "title": "Renovación de Textiles",
+      "description": "Reparamos y mejoramos ropa usada para darle una nueva vida."
+    },
+    {
+      "title": "Asesoramiento de Estilo",
+      "description": "Te ayudamos a encontrar el estilo perfecto con nuestra ropa renovada."
+    }
+  ]
+}
